@@ -1,0 +1,1 @@
+let message = "From the moment I understood the weakness of my flesh, It disguested me"

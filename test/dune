@@ -1,0 +1,18 @@
+(test
+ (name tp)
+ (libraries TP)
+ (deps ../sample_cnf/false.cnf 
+       ../sample_cnf/true.cnf 
+       ../sample_cnf/unit1.cnf 
+       ../sample_cnf/unit2.cnf 
+       ../sample_cnf/unit3.cnf 
+       ../sample_cnf/unit4.cnf 
+       ../sample_cnf/unit5.cnf 
+       ../sample_cnf/unit6.cnf 
+       ../sample_cnf/unit7.cnf 
+       ../sample_cnf/unit8.cnf 
+       ../sample_cnf/unit9.cnf 
+       ../sample_cnf/full2.cnf 
+       ../sample_cnf/full3.cnf 
+       ../sample_cnf/full4.cnf)
+ )

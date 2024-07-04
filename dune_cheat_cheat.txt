@@ -1,0 +1,14 @@
+Compile all files
+> dune build
+
+Remove intemediary object files
+> dune clean
+
+Run main executable
+> dune exec tp
+
+Run tests
+> dune test
+
+Launch toplevel for debuging (tackes a while)
+> dune utop
